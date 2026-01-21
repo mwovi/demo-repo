@@ -6,4 +6,4 @@ Some Description
 
 Watch tutorial on youtube
 
-- This is a test update to push to the branch
+- This is a change from main branch
